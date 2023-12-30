@@ -537,3 +537,7 @@ bg-success {
         background-color: #578553;
         border-color: #578553;
     }
+
+    .footor-text-white{
+        color:white;
+    }
